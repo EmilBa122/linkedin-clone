@@ -1,0 +1,6 @@
+node_modules/
+frontend/build/
+*.key
+*.crt
+README.pdf
+README_EN.pdf

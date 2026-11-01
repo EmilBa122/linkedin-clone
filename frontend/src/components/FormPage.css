@@ -1,0 +1,10 @@
+
+
+#error{
+    color: red;
+}
+
+.captcha-container {
+    display: flex;
+    justify-content: center; 
+}

@@ -1,0 +1,9 @@
+.table1 {
+    max-width: 70%;
+    margin-inline: auto;
+    overflow-x: scroll;
+  }
+  .table2 {
+    max-width: 100%;
+  }
+  
