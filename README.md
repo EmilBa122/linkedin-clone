@@ -52,8 +52,8 @@ personal page and network. The home page shows a timeline with posts. Users can 
 and attach any number of photos, videos and audio files, preview them and remove any before posting. Uploaded files are stored on the backend 
 in separate folders by type. Each post shows its author, date, number of likes and its comments. Users can like posts and comments and reply not 
 only to posts but also to other comments, without any limit. Comments are hidden until the user opens them. When a user creates a 
-post or comment, it appears immediately without reloading the page, and when a user likes or unlikes a post or comment, the like counter updates 
-immediately as well. Posts, comments and likes made by other users appear after the page is refreshed.
+post or comment, it appears immediately without reloading the page and when a user likes or unlikes a post or comment, the like counter updates 
+immediately as well. Posts, comments and likes made by other users appear after the page is refreshed
 - **Question 12:** the Matrix Factorization recommendation algorithm, implemented from scratch without ready-made libraries. 
 The user-post matrix is initialized using 9 criteria (likes, comments, friends posts, friends of friends, popular posts,  more details in the 
 [Matrix Factorization chapter](#matrix-factorization)) and is then factorized with gradient descent, which stops when the error stops decreasing. 
