@@ -71,7 +71,7 @@ which shares the logged-in user across all frontend pages without passing it fro
 more users and export their posts, comments (including nested ones) and connections in JSON or XML format
 - **Question 6:** the network page with user search. Users can send connection requests, accept or decline incoming requests, cancel sent 
 requests and disconnect and they can visit other users personal pages
-- **Question 8:** the private messaging system, with a list of conversations showing the last message exchanged and a chat window that updates
+- **Question 8:** the private messaging system, with a list of conversations showing the messages exchanged and a chat window that updates
 continuously with new messages
 - **Question 10 (partial):** the personal information page, which shows private data only to connected users
 
