@@ -155,9 +155,7 @@ In the terminal of the frontend directory:
 ## Using the ready-made database
 
 Inside the main folder of this project there is the folder produced\_data which contains a ready-made pre-generated database (a database of 10 users and one admin). To import the database you go into the folder produced\_data and then into the folder mydatabase you open a terminal window there and you write the command below:\
-```bash
 mongorestore -d mydatabase .
-```
 
 ## Browser, Project and Certificate
 
