@@ -88,7 +88,7 @@ mongodb (version 7.0.12)
 
 The mongodb was used as the database for the project
 
-The project has been split into two parts in the frontend and in the backend directory where each one executes the part of the frontend and of the backend respectively. In the implementation of the frontend of the project React was used. And for the backend express.js was used
+The project has been split into two parts in the frontend and in the backend directory where each one executes the part of the frontend and of the backend respectively. In the implementation of the frontend of the project React was used. And for the backend node.js and express.js were used
 
 ## Installing the dependencies (node_modules)
 
