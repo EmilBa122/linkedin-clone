@@ -1,8 +1,8 @@
 <h1 align="center">Professional Networking Application<br>(LinkedIn-style)</h1>
 
-<h3 align="center"><i>Developed by:</i></h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/emil-bantak-2219b3292/">Bantak Emil</a></h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/">Bonotis Apostolos Nikolaos</a></h3>
+<h2 align="center"><i>Developed by:</i></h2>
+<h2 align="center"><a href="https://www.linkedin.com/in/emil-bantak-2219b3292/">Bantak Emil</a></h2>
+<h2 align="center"><a href="https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/">Bonotis Apostolos Nikolaos</a></h2>
 
 # Assignment Description
 
