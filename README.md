@@ -6,7 +6,7 @@
 
 # Assignment Description
 
-Creation of a professional networking web application (LinkedIn-style). The application has two types of users, the administrator and the professional. The professionals can register and log in, build their network by sending and accepting connection requests, post articles with text, photos, videos and audio files, comment on articles and reply to other comments, like articles and comments, exchange private messages with other professionals and visit their personal pages. The administrator can view all the users of the application and export their data in JSON or XML format
+Creation of a professional networking web application (LinkedIn-style). The application has two types of users, the administrator and the professional. The professionals can register and log in, build their network by sending and accepting connection requests, post articles with text, photos, videos and audio files, comment on articles and reply to other comments like articles and comments, exchange private messages with other professionals and visit their personal pages. The administrator can view all the users of the application and export their data in JSON or XML format
 
 The frontend of the application has been implemented with React and the backend with node.js and express.js, while mongodb has been used as the database. The communication between the frontend and the backend is encrypted over HTTPS (SSL/TLS) and the users are authenticated with the Passport library, with bcrypt-hashed passwords and sessions stored in mongodb
 
