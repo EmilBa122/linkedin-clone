@@ -4,9 +4,16 @@
 <h3 align="center"><a href="https://www.linkedin.com/in/emil-bantak-2219b3292/">Bantak Emil</a></h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/">Bonotis Apostolos Nikolaos</a></h3>
 
+# Assignment Description
+
+Creation of a professional networking web application (LinkedIn-style). The application has two types of users, the administrator and the professional. The professionals can register and log in, build their network by sending and accepting connection requests, post articles with text, photos, videos and audio files, comment on articles and reply to other comments, like articles and comments, exchange private messages with other professionals and visit their personal pages. The administrator can view all the users of the application and export their data in JSON or XML format
+
+The frontend of the application has been implemented with React and the backend with node.js and express.js, while mongodb has been used as the database. The communication between the frontend and the backend is encrypted over HTTPS (SSL/TLS) and the users are authenticated with the Passport library, with bcrypt-hashed passwords and sessions stored in mongodb
+
+Questions 1, 2, 3, 4, 5, 6, 8 and the bonus question 12 have been fully implemented and for question 12 an artificial dataset has been constructed. Question 10 has been partially implemented i.e. the personal information page of a user is displayed, which shows private data only to connected users
+
 # Table of Contents
 
-- [Introduction](#introduction)
 - [Work Distribution](#work-distribution)
 - [Procedures and Execution of the Project](#procedures-and-execution-of-the-project)
   - [Installing the dependencies (node_modules)](#installing-the-dependencies-node_modules)
@@ -31,14 +38,6 @@
   - [Matrix Factorization](#matrix-factorization)
   - [Creation of random artificial data](#creation-of-random-artificial-data)
 - [Conclusion](#conclusion)
-
-# Introduction
-
-Creation of a professional networking web application (LinkedIn-style). The application has two types of users, the administrator and the professional. The professionals can register and log in, build their network by sending and accepting connection requests, post articles with text, photos, videos and audio files, comment on articles and reply to other comments, like articles and comments, exchange private messages with other professionals and visit their personal pages. The administrator can view all the users of the application and export their data in JSON or XML format
-
-The frontend of the application has been implemented with React and the backend with node.js and express.js, while mongodb has been used as the database. The communication between the frontend and the backend is encrypted over HTTPS (SSL/TLS) and the users are authenticated with the Passport library, with bcrypt-hashed passwords and sessions stored in mongodb
-
-Questions 1, 2, 3, 4, 5, 6, 8 and the bonus question 12 have been fully implemented and for question 12 an artificial dataset has been constructed. Question 10 has been partially implemented i.e. the personal information page of a user is displayed, which shows private data only to connected users
 
 # Work Distribution
 
